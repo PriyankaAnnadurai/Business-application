@@ -70,6 +70,8 @@ Note: Before inserting an image for the logo you need to use the following proce
 ![ex2-10](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9be0d550-d6ad-434e-82bb-74f9c05bfd2f)
 
 
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/18a35387-a980-40bd-bbc7-67b03bb8ee11)
 
 
 ## RESULT:
