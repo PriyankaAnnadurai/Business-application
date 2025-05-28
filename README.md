@@ -71,7 +71,7 @@ Note: Before inserting an image for the logo you need to use the following proce
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/18a35387-a980-40bd-bbc7-67b03bb8ee11)
+![Uploading image.png…]()
 
 
 ## RESULT:
